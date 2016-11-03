@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\Android 1\SampleMerchantApp\app\libs\PGSDK_v1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="957d299c4769678a84ac41b5a05c970511bf5254">
+        <dex dex="H:\Android 1\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\PGSDK_v1.0-e157447a6718e37a1e8c928fd8dd63ee7f531e40.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="H:\Android 1\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-7dc54dd65ee63cc9c36ec4ee298c40a5a736e51d.jar" />
+    </item>
+    <item
+        jar="H:\Android 1\SampleMerchantApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="H:\Android 1\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\classes-194cc7ce09cfda48c788eb6b4969e3442fb038c2.jar" />
+    </item>
+    <item
+        jar="H:\Android 1\SampleMerchantApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="H:\Android 1\SampleMerchantApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-0721c6b4b1267e6e3a075dd0b7f295ed14ebd38d.jar" />
+    </item>
+
+</items>
